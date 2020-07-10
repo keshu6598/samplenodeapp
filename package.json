@@ -1,0 +1,14 @@
+{
+  "name": "samplenodeapp",
+  "version": "1.0.0",
+  "description": "sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
